@@ -1,0 +1,11 @@
+body{
+    background-image: url(download.jpg);
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+#porinha{
+    color: white;
+}
+#lblBTC{
+    color: rgb(255, 255, 255);
+}
